@@ -1,6 +1,7 @@
 #Basic automation of connection to Cisco VPN
 #Author: Fil Rondel
-#Why: Basic automation bot because I'm lazy
+#What: Basic automation bot
+#Why: Laziness
 
 import pyautogui as pag
 
