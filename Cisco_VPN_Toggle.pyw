@@ -1,5 +1,5 @@
 #Basic automation of connection to Cisco VPN
-#Author: Fil Rondel
+#Who: Fil Rondel
 #What: Basic automation bot
 #Why: Laziness
 
