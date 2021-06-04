@@ -1,5 +1,5 @@
 # Cisco VPN Login Automation 
-GUI based automation of connect/disconnect toggle for Cisco VPN.
+GUI based automation of connect/disconnect toggle for Cisco VPN for Windows.
 
 
 1. Make sure you have DUO 2FA app installed and configured to Push on your device.
